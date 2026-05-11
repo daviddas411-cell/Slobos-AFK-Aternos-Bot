@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "memory_smp.aternos.me",
-    "port": 51145,
+    "ip": "Rasmalai_SMP.aternos.me",
+    "port": 57845,
     "version": "",
     "try-creative": false
   },
