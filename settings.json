@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rasmalai_SMP.aternos.me",
-    "port": 57845,
+    "ip": "Rasmalai-SMP.play.hosting",
+    "port": 58842,
     "version": "",
     "try-creative": false
   },
